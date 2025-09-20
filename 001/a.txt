@@ -1,3 +1,5 @@
 app
+amazon
+alt
 ant
 asics
